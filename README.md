@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://raw.githubusercontent.com/pashayogi/pashayogi/master/20210317_005502.png "Header")](https://hdlsvip.com/)
+[![Header](https://raw.githubusercontent.com/pashayogi/pashayogi/master/ok.png "Header")](https://hdlsvip.com/)
 
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
