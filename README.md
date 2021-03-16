@@ -24,7 +24,7 @@ Perkenalkan Nama Saya Pasha Yogi Pranata saya berasal dari Indonesia Kalimantan 
 
 Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://hdlsvip.com/) untuk melihat demo landing page [Landing Page](https://demo.hdlsvip.com).
 
-## ðŸ”§ Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
